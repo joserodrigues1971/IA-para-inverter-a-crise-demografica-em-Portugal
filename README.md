@@ -1,6 +1,3 @@
-<!-- Este é o modelo de markdown para o projeto final do curso Building AI,
-criado pela Reaktor Innovations e pela Universidade de Helsínquia! -->
-
 # Título do Projeto
 
 Família+IA: Sistema Nacional Inteligente de Política Demográfica
