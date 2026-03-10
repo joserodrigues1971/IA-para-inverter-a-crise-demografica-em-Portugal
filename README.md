@@ -1,11 +1,12 @@
-# Título do Projeto
-
-Família+IA: Sistema Nacional Inteligente de Política Demográfica
-Projeto final para o curso de IA de Construção
 
 ## Resumo
 
 Uma plataforma de inteligência artificial integrada que atua como “gestor preditivo da demografia nacional”. Utiliza dados em tempo real para otimizar incentivos à natalidade, planeamento urbano, habitação familiar, retenção de talento jovem e imigração qualificada, com foco em transformar a parentalidade em um investimento económico sustentável para famílias.
+
+## Título do Projeto
+
+Família+IA: Sistema Nacional Inteligente de Política Demográfica
+Projeto final para o curso de IA de Construção
 
 ## Fundo
 
